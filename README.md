@@ -32,7 +32,6 @@ The application allows users to enter text, select source and target languages, 
 
 text
 CodeAlpha_LanguageTranslation
-│
 ├── app.py
 ├── requirements.txt
 └── README.md
