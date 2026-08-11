@@ -27,7 +27,7 @@
 - 🇮🇳 Malayalam
 
 ## ▶️ How to Run
-
+ streamlit run app.py 
 ### 1️⃣ Install Required Packages
 
 ```bash
