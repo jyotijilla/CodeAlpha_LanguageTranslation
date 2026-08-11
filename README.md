@@ -31,7 +31,7 @@ The application allows users to enter text, select source and target languages, 
 ## 📁 Project Structure
 
 text
-CodeAlpha_LanguageTranslation/
+CodeAlpha_LanguageTranslation
 │
 ├── app.py
 ├── requirements.txt
