@@ -43,7 +43,7 @@ The application allows users to enter text, select a source language and a targe
 
 📁 Project Structure
 
-CodeAlpha_LanguageTranslation/
+CodeAlpha_LanguageTranslation
 │
 ├── app.py
 ├── requirements.txt
