@@ -1,6 +1,5 @@
 import streamlit as st
 from deep_translator import GoogleTranslator
-from gtts import gTTS
 
 st.title("🌍 Language Translation Tool")
 
@@ -66,15 +65,4 @@ if "translated_text" in st.session_state:
 
     st.components.v1.html(copy_button, height=60)
 
-    # Text-to-Speech
-    if st.button("🔊 Listen to Translation"):
-
-        tts = gTTS(
-            text=translated_text,
-            lang=target
-        )
-
-        audio_file = "translation.mp3"
-        tts.save(audio_file)
-
-        st.audio(audio_file)
+ 
