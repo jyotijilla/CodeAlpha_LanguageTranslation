@@ -26,7 +26,6 @@ The application allows users to enter text, select source and target languages, 
 - 🐍 *Python*
 - 🎨 *Streamlit*
 - 🌍 *Deep Translator*
-- 🔊 *gTTS (Google Text-to-Speech)*
 
 ## 📁 Project Structure
 
@@ -73,12 +72,10 @@ The application will open in your web browser.
 3. 🎯 Select the target language.
 4. 🔄 Click the *Translate* button.
 5. 📋 Copy the translated text.
-6. 🔊 Click *Listen to Translation* to hear the translated text.
 
 ## 🚀 Future Enhancements
 
 - 🌐 Support for additional languages
-- 🎙️ Voice input for translation
 - 📱 Improved mobile-friendly interface
 - ⚡ Improved performance and translation speed
 
